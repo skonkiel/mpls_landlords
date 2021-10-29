@@ -2,7 +2,7 @@
 
 Making it easier to find Minneapolis rental property owners, to help renters build power.
 
-Read the related analysis on my website (link coming soon).
+[Read the related analysis](https://stacykonkiel.org/minneapolis-landlords/)
 
 Inspired by ["Find My Landlord"](https://findmylandlord.chicagodsa.org/).
 
