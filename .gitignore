@@ -1,6 +1,10 @@
 .DS_Store
 */.DS_Store
+
+# "Trade secret" files
+Private_cleaning.ipynb
 content/*
+Data/cleaned_corporate.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
